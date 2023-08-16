@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Wayne_KenrlSU_Google",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
+      "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm/tree/MMI-S1RN32.55-16-2",
+      "branch": "MMI-S1RN32.55-16-2",
       "device": "wayne",
       "defconfig": "vendor/wayne_defconfig"
     },
