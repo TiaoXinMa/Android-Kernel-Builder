@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Wayne_KenrlSU_Google",
-      "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm/tree/MMI-S1RN32.55-16-2",
+      "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm",
       "branch": "MMI-S1RN32.55-16-2",
       "device": "wayne",
       "defconfig": "vendor/wayne_defconfig"
