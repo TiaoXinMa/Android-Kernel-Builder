@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU-Proton-release",
-      "repo": "https://github.com/LineageOS/android_kernel_motorola_sm8250",
-      "branch": "lineage-20",
+      "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm",
+      "branch": "MMI-S1RN32.55-16-2",
       "device": "thyme",
-      "defconfig": "vendor/lineageos_nio_defconfig"
+      "defconfig": "vendor/lito-perf_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -46,10 +46,10 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU-Proton-noanykernel-release",
-      "repo": "https://github.com/LineageOS/android_kernel_motorola_sm8250",
-      "branch": "lineage-20",
+      "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm",
+      "branch": "lineage-20.0",
       "device": "thyme",
-      "defconfig": "vendor/lineageos_nio_defconfig"
+      "defconfig": "vendor/lito-perf_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -89,11 +89,11 @@
   },
   {
     "kernelSource": {
-      "name": "moto",
-      "repo": "https://github.com/LineageOS/android_kernel_motorola_sm8250",
-      "branch": "lineage-20",
+      "name": "DogDay-KernelSU-Proton-anykernel-norelease",
+      "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm",
+      "branch": "MMI-S1RN32.55-16-2",
       "device": "thyme",
-      "defconfig": "vendor/lineageos_nio_defconfig"
+      "defconfig": "vendor/lito-perf_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
