@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU-Proton-release",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "repo": "https://github.com/LineageOS/android_kernel_motorola_sm8250",
+      "branch": "lineage-20",
       "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "defconfig": "vendor/lineageos_nio_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -46,10 +46,10 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU-Proton-noanykernel-release",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "repo": "https://github.com/LineageOS/android_kernel_motorola_sm8250",
+      "branch": "lineage-20",
       "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "defconfig": "vendor/lineageos_nio_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -93,7 +93,7 @@
       "repo": "https://github.com/LineageOS/android_kernel_motorola_sm8250",
       "branch": "lineage-20",
       "device": "thyme",
-      "defconfig": "vendor/lineageos_pstar"
+      "defconfig": "vendor/lineageos_nio_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
