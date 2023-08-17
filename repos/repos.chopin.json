@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Chopin_KernelSU_Proton",
-      "repo": "https://github.com/AOSP-13-Mediatek/kernel_xiaomi_chopin",
-      "branch": "r",
+      "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm",
+      "branch": "MMI-S1RN32.55-16-2",
       "device": "chopin",
-      "defconfig": "chopin_user_defconfig"
+      "defconfig": "vendor/lito_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
