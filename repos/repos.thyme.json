@@ -5,7 +5,7 @@
       "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm",
       "branch": "MMI-S1RN32.55-16-2",
       "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "defconfig": "vendor/lito-perf_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
