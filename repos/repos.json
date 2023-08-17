@@ -47,7 +47,7 @@
     "kernelSource": {
       "name": "DogDay-KernelSU-Proton-noanykernel-release",
       "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm",
-      "branch": "lineage-20.0",
+      "branch": "MMI-S1RN32.55-16-2",
       "device": "thyme",
       "defconfig": "vendor/lito-perf_defconfig"
     },
