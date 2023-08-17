@@ -5,7 +5,7 @@
       "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm",
       "branch": "MMI-S1RN32.55-16-2",
       "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "defconfig": "/vendor/lito_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
