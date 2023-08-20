@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Chopin_KernelSU_Proton",
-      "repo": "https://github.com/TiaoXinMa/android_kernel_motorola_sm8250",
-      "branch": "lineage-20",
+      "repo": "https://github.com/yanhua-tj/LMV600EA_Kernel",
+      "branch": "tag_08000",
       "device": "chopin",
-      "defconfig": "vendor/lineageos_pstar_defconfig"
+      "defconfig": "gki_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
